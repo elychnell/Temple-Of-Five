@@ -8,20 +8,17 @@ Welcome to **The Temple of Five**, a digital escape room and atmospheric puzzle 
 ## My Contribution
 
 I was involved in both the development of the game and the integration of the different systems created by the team.
-
 My main individual contribution was the Earth Room, which I developed from scratch, including its game logic and timer functionality.
 
 I also contributed to the project by:
 
-- Developing the Earth Room and its game logic from scratch
-- Implementing and then adapting the timer functionality
+- Implementing and adapting the timer functionality
 - Integrating functionality developed by other team members into my room
 - Contributing to debugging and improving the game's cheat engine
 - Participating in testing, debugging and general polishing of the game
 - Presenting the finished project
 
 As part of our Scrum-based workflow, all team members also took turns acting as Scrum Master, giving everyone experience with planning, coordination and facilitating the team's work.
-
 
 ## About the Game
 
@@ -42,6 +39,10 @@ In a future where cities collapsed and the jungle reclaimed the world, one struc
 3.  **Master the Elements:** Progress through all five rooms, adapting to different mechanics in each.
 4.  **The Final Challenge:** Complete the final trial to see your total score and escape the temple!
     ![Gameplay Demo](/public/images/welcomepage.gif)
+
+## Live Demo
+
+[Live demo link WIP]
 
 ## Technologies Used
 
@@ -71,7 +72,7 @@ In a future where cities collapsed and the jungle reclaimed the world, one struc
 
 ## Design & Planning
 
-- **Logic & Flow:** [Miro Flowchart](https://miro.com/app/board/uXjVGD_af74=/?share_link_id=396365481063)
+- **Game Logic & Flow:** [Miro Flowchart](https://miro.com/app/board/uXjVGD_af74=/?share_link_id=396365481063)
 - **Visual Identity:** [Figma Mockup](https://www.figma.com/proto/OJgqdjOM1fksuh2Gh2rsAX/The-temple-of-five?node-id=4-55&p=f&t=QRSCgQpighrHxX8w-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&device-frame=0)
 
 ---
@@ -83,6 +84,7 @@ The project also required careful handling of timers, intervals and event listen
 
 Working as a team introduced additional challenges around Git branches, merge conflicts and coordinating changes to shared functionality.
 
+Integrating functionality developed by different team members also required us to coordinate interfaces between systems and resolve conflicts when combining our work.
 ## Credits
 
 ### The Team:
