@@ -4,6 +4,25 @@
 
 Welcome to **The Temple of Five**, a digital escape room and atmospheric puzzle adventure game created by **The Pogo Stick Pioneers**. 
 
+
+## My Contribution
+
+I was involved in both the development of the game and the integration of the different systems created by the team.
+
+My main individual contribution was the Earth Room, which I developed from scratch, including its game logic and timer functionality.
+
+I also contributed to the project by:
+
+- Developing the Earth Room and its game logic from scratch
+- Implementing and then adapting the timer functionality
+- Integrating functionality developed by other team members into my room
+- Contributing to debugging and improving the game's cheat engine
+- Participating in testing, debugging and general polishing of the game
+- Presenting the finished project
+
+As part of our Scrum-based workflow, all team members also took turns acting as Scrum Master, giving everyone experience with planning, coordination and facilitating the team's work.
+
+
 ## About the Game
 
 In a future where cities collapsed and the jungle reclaimed the world, one structure still breathes with dormant power. The Temple of Five Elements holds ancient survival tech — sealed behind trials of Wood, Fire, Earth, Metal, and Water. Solve the puzzles, collect the sacred artifacts, and unlock the temple's final secret. Each chamber features its own puzzle and gameplay mechanic designed to test the player's logic, observation, and reflexes.
