@@ -57,33 +57,16 @@ In a future where cities collapsed and the jungle reclaimed the world, one struc
 
 ---
 
-## Team Reflections
+## Challenges & Lessons Learned
 
-### What We Learned
+One of the main challenges was keeping the shared game state consistent across different rooms and interactions.
+The project also required careful handling of timers, intervals and event listeners to avoid unwanted behaviour when restarting or replaying the game.
 
-- **Planning and project structure are important.** We learned that building the core systems (game engine, global functions, and LocalStorage handling) earlier would have made development smoother.
-
-- **Team collaboration was a key part of the project.** We gained valuable experience working with GitHub using branches, pull requests, and resolving merge conflicts.
-
-- **State management improved throughout the project.** We structured the game state using LocalStorage with clear states such as _pending_, _completed_, and _failed_.
-
-- **Accessibility and UI feedback improved the user experience.** Keyboard navigation, focus handling, ARIA labels, and small UI details like animations and progress indicators helped make the game feel more polished.
-
----
-
-### Difficulties / Challenges
-
-- **Connecting all rooms to a shared game state was challenging**, since rooms were developed before a stable core system existed.
-
-- **Timers, intervals, and event listeners sometimes caused bugs**, especially when rooms were re-entered. We solved this by adding cleanup logic and initialization guards.
-
-- **Merge conflicts happened frequently early in the project**, but we improved our workflow and resolved them through teamwork.
-
-- **Replay and reset flows required careful state handling** to avoid edge-case bugs.
+Working as a team introduced additional challenges around Git branches, merge conflicts and coordinating changes to shared functionality.
 
 ## Credits
 
-### The Team: The Pogo Stick Pioneers
+### The Team:
 
 | Pioneer                  | Role / Profile                                                                                                                    |
 | :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
