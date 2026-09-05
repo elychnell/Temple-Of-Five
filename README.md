@@ -42,7 +42,13 @@ In a future where cities collapsed and the jungle reclaimed the world, one struc
 
 ## Live Demo
 
-[Live demo link WIP]
+![Live demo](elychnell.github.io/Temple-Of-Five/)
+
+## Cheats
+Secret key sequence typed anywhere: pogo
+Code phrase required to unlock dev settings: temple5
+
+It is then possible to skip rooms.
 
 ## Technologies Used
 
