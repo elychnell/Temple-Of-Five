@@ -44,11 +44,17 @@ In a future where cities collapsed and the jungle reclaimed the world, one struc
 
 [Live demo](https://elychnell.github.io/Temple-Of-Five/)
 
-## Cheats
-- Secret key sequence typed anywhere: pogo
-- Code phrase required to unlock dev settings: temple5
+## Developer Access
 
-It is then possible to skip rooms.
+The demo includes a developer shortcut for quickly accessing later
+rooms without completing the previous trials.
+
+- **Secret key sequence:** `pogo`
+- **Developer code:** `temple5`
+
+Use this to skip directly to later rooms when exploring the project.
+
+The developer shortcut can be used to quickly access the Earth Room and explore my individual contribution.
 
 ## Technologies Used
 
